@@ -1,4 +1,3 @@
-# Project 1
 ## Xiangning Gao
 ### 998547853
 
